@@ -1,0 +1,47 @@
+.districts{
+    padding: 20px;
+    margin-left: 26px;
+    max-width: 700px;
+
+}
+
+.Title {
+    margin: 1rem 0 3rem 0;
+    text-align: left;
+    opacity: 0.8;
+    padding: 10px;
+  }
+
+  img {
+    display: flex;
+    margin: 3rem 0 2rem 0;
+    width: 23px;
+    height: 23px;
+    background-color: rgb(229, 229, 229);
+    border-radius: 50%;
+    padding: 4px;
+    cursor: pointer;
+  }
+
+  input{
+    margin-bottom: 1em;
+   font-size: 18px;
+   padding: 20px 20px 20px 30px;
+   border-radius: 14px;
+   border-color: rgb(252, 196, 92);
+   width: 50%;
+   height: 2px;
+   cursor: pointer;
+   text-decoration: none;
+   }
+   .li{
+       max-width: 700px;
+       display: flex;
+       padding: 10px;
+   }
+   .left{
+       display: grid;
+   }
+   .right{
+       display: grid;
+   }
